@@ -1,8 +1,16 @@
+
 # TextViewFlowLayout
 Whatsapp and Telegram message layout
 
-Extended FrameLayout that wrap its content when there is no place in the current line.
+If you are wondering how WhatsApp and Telegram handles the time shown in every messages.
 
+For those who don't know:
+
+1. If the message is very short, the text and time are in the same row.
+2. If the message is long, the time is in the bottom right corner - the text wrapped around it.
+
+
+Extended FrameLayout that wrap its content when there is no place in the current line.
 
 ## Demonstration
 
