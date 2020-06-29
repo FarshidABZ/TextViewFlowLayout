@@ -2,7 +2,7 @@
 # TextViewFlowLayout
 Whatsapp and Telegram message layout
 
-If you are wondering how WhatsApp and Telegram handles the time shown in every messages.
+If you are wondering how WhatsApp and Telegram handle the time shown in every message.
 
 For those who don't know:
 
